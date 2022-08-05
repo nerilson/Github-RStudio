@@ -1,0 +1,15 @@
+---
+title: "PCA"
+author: "nerilson"
+date: "2022-08-05"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introdução - Testando
+
+```{r}
+library(tidyverse)
+```
+
